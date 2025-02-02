@@ -95,6 +95,9 @@
   color: #1A1A1A;
   font-weight: bold;
   border-radius: 6px;
+  -webkit-box-shadow: 6px 6px 15px 1px rgba(152, 121, 0, 0.13);
+  -moz-box-shadow: 6px 6px 15px 1px rgba(152, 121, 0, 0.13);
+  box-shadow: 6px 6px 15px 1px rgba(152, 121, 0, 0.13);
 }
 
 .header-info-block {
